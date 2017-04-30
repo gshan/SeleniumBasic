@@ -10,6 +10,7 @@ namespace RegistrationDemo
 {
     public class MvcApplication : System.Web.HttpApplication
     {
+       // test code 
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
